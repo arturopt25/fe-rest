@@ -1,0 +1,41 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 80px); /* Adjust based on navbar height */
+  text-align: center;
+  background: url('../assets/primer-plano-de-carne-asada-con-salsa-verduras-y-patatas-fritas-en-un-plato-sobre-la-mesa.jpg') no-repeat center center/cover;
+  color: white;
+}
+
+.hero-section {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 2rem 4rem;
+  border-radius: 10px;
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.hero-section p {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.cta-button {
+  background-color: #ff8c00;
+  color: white;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  display: inline-block;
+}
+
+.cta-button:hover {
+  background-color: #e07b00;
+  transform: scale(1.05);
+}

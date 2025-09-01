@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ORD-001",
+    "fecha": "2025-08-25",
+    "monto": 55.50,
+    "items": [
+      { "nombre": "Hamburguesa Clásica", "cantidad": 1, "precio": 15.50 },
+      { "nombre": "Papas Fritas", "cantidad": 1, "precio": 5.00 },
+      { "nombre": "Refresco", "cantidad": 1, "precio": 3.00 }
+    ],
+    "estado": "Entregado"
+  },
+  {
+    "id": "ORD-002",
+    "fecha": "2025-08-28",
+    "monto": 32.00,
+    "items": [
+      { "nombre": "Pizza Margarita", "cantidad": 1, "precio": 25.00 },
+      { "nombre": "Agua Mineral", "cantidad": 2, "precio": 3.50 }
+    ],
+    "estado": "Entregado"
+  },
+  {
+    "id": "ORD-003",
+    "fecha": "2025-09-01",
+    "monto": 18.75,
+    "items": [
+      { "nombre": "Ensalada César", "cantidad": 1, "precio": 18.75 }
+    ],
+    "estado": "En preparación"
+  }
+]

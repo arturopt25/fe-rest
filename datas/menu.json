@@ -1,0 +1,254 @@
+{
+  "Platos Principales": [
+    {
+      "id": 1,
+      "name": "Hamburguesa Clásica",
+      "price": 9.50,
+      "type": "Plato Principal"
+    },
+    {
+      "id": 2,
+      "name": "Pasta a la Carbonara",
+      "price": 12.00,
+      "type": "Plato Principal"
+    },
+    {
+      "id": 3,
+      "name": "Pollo a la parrilla",
+      "price": 11.00,
+      "type": "Plato Principal"
+    },
+    {
+      "id": 4,
+      "name": "Salmón al horno",
+      "price": 15.75,
+      "type": "Plato Principal"
+    },
+    {
+      "id": 5,
+      "name": "Lomo saltado",
+      "price": 13.50,
+      "type": "Plato Principal"
+    },
+    {
+      "id": 6,
+      "name": "Costillas BBQ",
+      "price": 14.25,
+      "type": "Plato Principal"
+    },
+    {
+      "id": 7,
+      "name": "Risotto de champiñones",
+      "price": 10.90,
+      "type": "Plato Principal"
+    },
+    {
+      "id": 8,
+      "name": "Pad Thai",
+      "price": 11.50,
+      "type": "Plato Principal"
+    },
+    {
+      "id": 9,
+      "name": "Curry de garbanzos",
+      "price": 9.90,
+      "type": "Plato Principal"
+    },
+    {
+      "id": 10,
+      "name": "Enchiladas de pollo",
+      "price": 10.50,
+      "type": "Plato Principal"
+    }
+  ],
+  "Ensaladas": [
+    {
+      "id": 11,
+      "name": "Ensalada César",
+      "price": 8.50,
+      "type": "Ensalada"
+    },
+    {
+      "id": 12,
+      "name": "Ensalada de espinacas y fresas",
+      "price": 9.25,
+      "type": "Ensalada"
+    },
+    {
+      "id": 13,
+      "name": "Ensalada griega",
+      "price": 8.75,
+      "type": "Ensalada"
+    },
+    {
+      "id": 14,
+      "name": "Ensalada de quinua",
+      "price": 10.10,
+      "type": "Ensalada"
+    },
+    {
+      "id": 15,
+      "name": "Ensalada de aguacate",
+      "price": 9.00,
+      "type": "Ensalada"
+    }
+  ],
+  "Pizzas": [
+    {
+      "id": 16,
+      "name": "Pizza Margherita",
+      "price": 11.00,
+      "type": "Pizza"
+    },
+    {
+      "id": 17,
+      "name": "Pizza Pepperoni",
+      "price": 12.50,
+      "type": "Pizza"
+    },
+    {
+      "id": 18,
+      "name": "Pizza Hawaiana",
+      "price": 12.00,
+      "type": "Pizza"
+    },
+    {
+      "id": 19,
+      "name": "Pizza Vegetariana",
+      "price": 11.75,
+      "type": "Pizza"
+    },
+    {
+      "id": 20,
+      "name": "Pizza de pollo BBQ",
+      "price": 13.00,
+      "type": "Pizza"
+    }
+  ],
+  "Tacos": [
+    {
+      "id": 21,
+      "name": "Tacos al pastor",
+      "price": 9.75,
+      "type": "Taco"
+    },
+    {
+      "id": 22,
+      "name": "Tacos de carnitas",
+      "price": 10.25,
+      "type": "Taco"
+    },
+    {
+      "id": 23,
+      "name": "Tacos de pescado",
+      "price": 11.00,
+      "type": "Taco"
+    },
+    {
+      "id": 24,
+      "name": "Tacos de camarones",
+      "price": 12.50,
+      "type": "Taco"
+    },
+    {
+      "id": 25,
+      "name": "Tacos vegetarianos",
+      "price": 9.50,
+      "type": "Taco"
+    }
+  ],
+  "Postres": [
+    {
+      "id": 26,
+      "name": "Tarta de Queso",
+      "price": 4.50,
+      "type": "Postre"
+    },
+    {
+      "id": 27,
+      "name": "Helado de Vainilla",
+      "price": 3.50,
+      "type": "Postre"
+    },
+    {
+      "id": 28,
+      "name": "Brownie con helado",
+      "price": 5.00,
+      "type": "Postre"
+    },
+    {
+      "id": 29,
+      "name": "Crepes con Nutella",
+      "price": 4.75,
+      "type": "Postre"
+    },
+    {
+      "id": 30,
+      "name": "Pastel de chocolate",
+      "price": 4.90,
+      "type": "Postre"
+    }
+  ],
+  "Bebidas": [
+    {
+      "id": 31,
+      "name": "Refresco",
+      "price": 2.50,
+      "type": "Bebida"
+    },
+    {
+      "id": 32,
+      "name": "Jugo Natural",
+      "price": 3.00,
+      "type": "Bebida"
+    },
+    {
+      "id": 33,
+      "name": "Agua Mineral",
+      "price": 1.50,
+      "type": "Bebida"
+    },
+    {
+      "id": 34,
+      "name": "Limonada",
+      "price": 2.75,
+      "type": "Bebida"
+    },
+    {
+      "id": 35,
+      "name": "Té helado",
+      "price": 2.50,
+      "type": "Bebida"
+    },
+    {
+      "id": 36,
+      "name": "Café Americano",
+      "price": 2.25,
+      "type": "Bebida"
+    },
+    {
+      "id": 37,
+      "name": "Espresso",
+      "price": 2.00,
+      "type": "Bebida"
+    },
+    {
+      "id": 38,
+      "name": "Smoothie de frutas",
+      "price": 4.50,
+      "type": "Bebida"
+    },
+    {
+      "id": 39,
+      "name": "Cerveza artesanal",
+      "price": 5.50,
+      "type": "Bebida"
+    },
+    {
+      "id": 40,
+      "name": "Vino tinto",
+      "price": 6.00,
+      "type": "Bebida"
+    }
+  ]
+}
